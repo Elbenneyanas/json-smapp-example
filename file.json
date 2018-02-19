@@ -1,7 +1,7 @@
 {
 "stationBeanList": [
         {
-{
+
             "id": 72,
             "stationName": "W 52 St & 11 Ave" 
         },
@@ -17,4 +17,4 @@
             "id": 81,
             "stationName": "Franklin St  " 
          }
-         }
+}
