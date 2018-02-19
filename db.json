@@ -1,0 +1,18 @@
+"stationBeanList": [
+{
+            "id": 72,
+            "stationName": "W 52 St & 11 Ave" 
+        },
+        {
+            "id": 79,
+            "stationName": "Franklin St & W Broadway" 
+        },
+         {
+            "id": 80,
+            "stationName": "  Broadway" 
+        },
+         {
+            "id": 81,
+            "stationName": "Franklin St  " 
+        }
+        ]
