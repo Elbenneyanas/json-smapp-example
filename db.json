@@ -1061,7 +1061,7 @@
                     }
                 }
             },
-            {
+                {
                 "rowstamp": "[0 0 0 0 0 0 112 10]",
                 "Attributes": {
                     "ASSETNUM": {
@@ -1071,7 +1071,7 @@
                         "content": "CONF400"
                     },
                     "DESCRIPTION": {
-                        "content": "Fire Extinguisher"
+                        "content": "Fire Extinguis                                      her"
                     },
                     "VENDOR": {
                         "content": "ANSUL"
@@ -2045,65 +2045,7 @@
                     },
                     "ISLINEAR": {
                         "content": false
-                    },
-                    "STATUSIFACE": {
-                        "content": false
-                    },
-                    "ASOFDATE": {
-                        "content": "2018-02-14T17:22:10+01:00"
-                    },
-                    "FROMMEASURE": {
-                        "content": 0
-                    },
-                    "TOMEASURE": {
-                        "content": 0
-                    },
-                    "ROLLTOALLCHILDREN": {
-                        "content": false
-                    },
-                    "REMOVEFROMACTIVEROUTES": {
-                        "content": false
-                    },
-                    "REMOVEFROMACTIVESP": {
-                        "content": false
-                    },
-                    "CHANGEPMSTATUS": {
-                        "content": false
-                    },
-                    "NEWORGID": {
-                        "content": "EAGLENA"
-                    },
-                    "RETURNEDTOVENDOR": {
-                        "content": false
-                    },
-                    "RELATIONSHIPFILTERBY": {
-                        "content": "VIEWALL"
-                    },
-                    "TLOAMPARTITION": {
-                        "content": false
-                    },
-                    "PLUSCISCONTAM": {
-                        "content": false
-                    },
-                    "PLUSCISINHOUSECAL": {
-                        "content": false
-                    },
-                    "PLUSCISMTE": {
-                        "content": false
-                    },
-                    "PLUSCPMEXTDATE": {
-                        "content": false
-                    },
-                    "PLUSCSOLUTION": {
-                        "content": false
-                    },
-                    "ISCALIBRATION": {
-                        "content": false
-                    },
-                    "SHOWFROMDATE": {
-                        "content": "2018-02-14T00:00:00+01:00"
                     }
-                }
             }
         ]
     }
