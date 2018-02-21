@@ -1,68 +1,2110 @@
 {
-  "data": [{
-    "type": "articles",
-    "id": "1",
-   "quantite": 14,
-    "attributes": {
-      "title": "JSON API paints my bikeshed!",
-      "body": "The shortest article. Ever.",
-      "created": "2015-05-22T14:56:29.000Z",
-      "updated": "2015-05-22T14:56:28.000Z"
-    },
-    "relationships": {
-      "author": {
-        "data": {"id": "42", "type": "people"}
-      }
-    }
-  },
-           {
-            "type": "articles",
-            "id": "2",
-            "quantite": 60,
-            "attributes": {
-                "title": "JSON API paints my bikeshed!",
-                "body": "The shortest article. Ever.",
-                "created": "2015-05-22T14:56:29.000Z",
-                "updated": "2015-05-22T14:56:28.000Z"
+    "ASSETMboSet": {
+        "rsStart": 0,
+        "rsCount": 10,
+        "rsTotal": 1262,
+        "ASSET": 
+               [
+            {
+                "rowstamp": "[0 0 0 0 2 -100 91 -13]",
+                "Attributes": {
+                    "ASSETNUM": {
+                        "content": "1000"
+                    },
+                    "SERIALNUM": {
+                        "content": "12346"
+                    },
+                    "VENDOR": {
+                        "content": "1001"
+                    },
+                    "MANUFACTURER": {
+                        "content": "1001"
+                    },
+                    "PURCHASEPRICE": {
+                        "content": 0
+                    },
+                    "REPLACECOST": {
+                        "content": 0
+                    },
+                    "TOTALCOST": {
+                        "content": 0
+                    },
+                    "YTDCOST": {
+                        "content": 0
+                    },
+                    "BUDGETCOST": {
+                        "content": 0
+                    },
+                    "ISRUNNING": {
+                        "content": true
+                    },
+                    "UNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTUNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTDOWNTIME": {
+                        "content": 0
+                    },
+                    "STATUSDATE": {
+                        "content": "2017-07-07T17:39:11+01:00"
+                    },
+                    "CHANGEDATE": {
+                        "content": "2017-10-27T15:09:05+01:00"
+                    },
+                    "CHANGEBY": {
+                        "content": "MXINTADM"
+                    },
+                    "INVCOST": {
+                        "content": 0
+                    },
+                    "CHILDREN": {
+                        "content": false
+                    },
+                    "DISABLED": {
+                        "content": false
+                    },
+                    "SITEID": {
+                        "content": "BEDFORD"
+                    },
+                    "ORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "AUTOWOGEN": {
+                        "content": false
+                    },
+                    "ADDTOSTORE": {
+                        "content": false
+                    },
+                    "MOVEDATE": {
+                        "content": "2018-02-14T17:22:09+01:00"
+                    },
+                    "MOVEDBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "NEWSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "GROUPNAME": {
+                        "content": "CLASS8"
+                    },
+                    "ASSETTYPE": {
+                        "content": "FACILITIES"
+                    },
+                    "USAGE": {
+                        "content": "BaseWS"
+                    },
+                    "STATUS": {
+                        "content": "NOT READY"
+                    },
+                    "MAINTHIERCHY": {
+                        "content": false
+                    },
+                    "ASSETID": {
+                        "content": 13923
+                    },
+                    "MOVED": {
+                        "content": false
+                    },
+                    "NEWASSETNUM": {
+                        "content": "1000"
+                    },
+                    "ASSETUID": {
+                        "content": 14330,
+                        "resourceid": true
+                    },
+                    "NEWSTATUS": {
+                        "content": "NOT READY"
+                    },
+                    "HASCHILDREN": {
+                        "content": false
+                    },
+                    "HASPARENT": {
+                        "content": false
+                    },
+                    "OBJECTNAME": {
+                        "content": "ASSET"
+                    },
+                    "LANGCODE": {
+                        "content": "FR"
+                    },
+                    "REPLACEASSETSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "HASLD": {
+                        "content": false
+                    },
+                    "ISLINEAR": {
+                        "content": false
+                    },
+                    "STATUSIFACE": {
+                        "content": false
+                    },
+                    "ASOFDATE": {
+                        "content": "2018-02-14T17:22:09+01:00"
+                    },
+                    "FROMMEASURE": {
+                        "content": 0
+                    },
+                    "TOMEASURE": {
+                        "content": 0
+                    },
+                    "ROLLTOALLCHILDREN": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVEROUTES": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVESP": {
+                        "content": false
+                    },
+                    "CHANGEPMSTATUS": {
+                        "content": false
+                    },
+                    "NEWORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "RETURNEDTOVENDOR": {
+                        "content": false
+                    },
+                    "RELATIONSHIPFILTERBY": {
+                        "content": "VIEWALL"
+                    },
+                    "TLOAMPARTITION": {
+                        "content": false
+                    },
+                    "PLUSCISCONTAM": {
+                        "content": false
+                    },
+                    "PLUSCISINHOUSECAL": {
+                        "content": false
+                    },
+                    "PLUSCISMTE": {
+                        "content": false
+                    },
+                    "PLUSCPMEXTDATE": {
+                        "content": false
+                    },
+                    "PLUSCSOLUTION": {
+                        "content": false
+                    },
+                    "ISCALIBRATION": {
+                        "content": false
+                    },
+                    "TEMPLATEID": {
+                        "content": "8888"
+                    },
+                    "SHOWFROMDATE": {
+                        "content": "2018-02-14T00:00:00+01:00"
+                    },
+                    "ASSETHEALTH": {
+                        "content": 0
+                    },
+                    "EXPECTEDLIFE": {
+                        "content": 0
+                    },
+                    "TESTDATE": {
+                        "content": "2017-07-07T17:39:11+01:00"
+                    },
+                    "NOMAPPLICATION": {
+                        "content": "ASSET"
+                    },
+                    "SM_RECORDLOCATION": {
+                        "content": "[, 146, 323, 128, 26, 5202, 1870, 1030, ]"
+                    }
+                }
             },
-            "relationships": {
-                "author": {
-                    "data": {
-                        "id": "42",
-                        "type": "people"
+            {
+                "rowstamp": "[0 0 0 0 1 106 17 -50]",
+                "Attributes": {
+                    "ASSETNUM": {
+                        "content": "1001"
+                    },
+                    "LOCATION": {
+                        "content": "MOFLOOR1"
+                    },
+                    "DESCRIPTION": {
+                        "content": "Fire Extinguisher"
+                    },
+                    "VENDOR": {
+                        "content": "ANSUL"
+                    },
+                    "MANUFACTURER": {
+                        "content": "ANSUL"
+                    },
+                    "PURCHASEPRICE": {
+                        "content": 0
+                    },
+                    "REPLACECOST": {
+                        "content": 0
+                    },
+                    "INSTALLDATE": {
+                        "content": "2001-03-28T00:00:00+01:00"
+                    },
+                    "TOTALCOST": {
+                        "content": 0
+                    },
+                    "YTDCOST": {
+                        "content": 0
+                    },
+                    "BUDGETCOST": {
+                        "content": 0
+                    },
+                    "ISRUNNING": {
+                        "content": true
+                    },
+                    "ITEMNUM": {
+                        "content": "FIRE-100"
+                    },
+                    "UNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTUNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTDOWNTIME": {
+                        "content": 0.03333333333333333
+                    },
+                    "STATUSDATE": {
+                        "content": "2017-07-12T09:15:16+01:00"
+                    },
+                    "CHANGEDATE": {
+                        "content": "2017-07-12T09:15:16+01:00"
+                    },
+                    "CHANGEBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "PRIORITY": {
+                        "content": 3
+                    },
+                    "INVCOST": {
+                        "content": 0
+                    },
+                    "ROTSUSPACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "CHILDREN": {
+                        "content": false
+                    },
+                    "DISABLED": {
+                        "content": false
+                    },
+                    "SITEID": {
+                        "content": "BEDFORD"
+                    },
+                    "ORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "AUTOWOGEN": {
+                        "content": false
+                    },
+                    "ITEMSETID": {
+                        "content": "SET1"
+                    },
+                    "ADDTOSTORE": {
+                        "content": false
+                    },
+                    "GLCREDITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "GLDEBITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "MOVEDATE": {
+                        "content": "2018-02-14T17:22:09+01:00"
+                    },
+                    "MOVEDBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "NEWSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "NEWLOCATION": {
+                        "content": "MOFLOOR1"
+                    },
+                    "STATUS": {
+                        "content": "ACTIVE"
+                    },
+                    "MAINTHIERCHY": {
+                        "content": false
+                    },
+                    "ASSETID": {
+                        "content": 52
+                    },
+                    "MOVED": {
+                        "content": false
+                    },
+                    "NEWASSETNUM": {
+                        "content": "1001"
+                    },
+                    "ASSETUID": {
+                        "content": 53,
+                        "resourceid": true
+                    },
+                    "NEWSTATUS": {
+                        "content": "ACTIVE"
+                    },
+                    "HASCHILDREN": {
+                        "content": false
+                    },
+                    "HASPARENT": {
+                        "content": false
+                    },
+                    "OBJECTNAME": {
+                        "content": "ASSET"
+                    },
+                    "LANGCODE": {
+                        "content": "EN"
+                    },
+                    "REPLACEASSETSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "HASLD": {
+                        "content": false
+                    },
+                    "ISLINEAR": {
+                        "content": false
+                    },
+                    "STATUSIFACE": {
+                        "content": false
+                    },
+                    "ASOFDATE": {
+                        "content": "2018-02-14T17:22:09+01:00"
+                    },
+                    "FROMMEASURE": {
+                        "content": 0
+                    },
+                    "TOMEASURE": {
+                        "content": 0
+                    },
+                    "ROLLTOALLCHILDREN": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVEROUTES": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVESP": {
+                        "content": false
+                    },
+                    "CHANGEPMSTATUS": {
+                        "content": false
+                    },
+                    "NEWORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "RETURNEDTOVENDOR": {
+                        "content": false
+                    },
+                    "RELATIONSHIPFILTERBY": {
+                        "content": "VIEWALL"
+                    },
+                    "TLOAMPARTITION": {
+                        "content": false
+                    },
+                    "PLUSCISCONTAM": {
+                        "content": false
+                    },
+                    "PLUSCISINHOUSECAL": {
+                        "content": false
+                    },
+                    "PLUSCISMTE": {
+                        "content": false
+                    },
+                    "PLUSCPMEXTDATE": {
+                        "content": false
+                    },
+                    "PLUSCSOLUTION": {
+                        "content": false
+                    },
+                    "ISCALIBRATION": {
+                        "content": false
+                    },
+                    "SHOWFROMDATE": {
+                        "content": "2018-02-14T00:00:00+01:00"
+                    },
+                    "CURRENTVALUE": {
+                        "content": 6626.56
+                    }
+                }
+            },
+            {
+                "rowstamp": "[0 0 0 0 0 -66 89 106]",
+                "Attributes": {
+                    "ASSETNUM": {
+                        "content": "1002"
+                    },
+                    "LOCATION": {
+                        "content": "MOFLOOR2"
+                    },
+                    "DESCRIPTION": {
+                        "content": "Fire Extinguisher"
+                    },
+                    "VENDOR": {
+                        "content": "ANSUL"
+                    },
+                    "MANUFACTURER": {
+                        "content": "ANSUL"
+                    },
+                    "PURCHASEPRICE": {
+                        "content": 0
+                    },
+                    "REPLACECOST": {
+                        "content": 0
+                    },
+                    "INSTALLDATE": {
+                        "content": "2001-03-28T00:00:00+01:00"
+                    },
+                    "TOTALCOST": {
+                        "content": 0
+                    },
+                    "YTDCOST": {
+                        "content": 0
+                    },
+                    "BUDGETCOST": {
+                        "content": 0
+                    },
+                    "ISRUNNING": {
+                        "content": true
+                    },
+                    "ITEMNUM": {
+                        "content": "FIRE-100"
+                    },
+                    "UNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTUNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTDOWNTIME": {
+                        "content": 48.2
+                    },
+                    "STATUSDATE": {
+                        "content": "2017-03-14T13:57:03+01:00"
+                    },
+                    "CHANGEDATE": {
+                        "content": "2017-03-14T14:17:35+01:00"
+                    },
+                    "CHANGEBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "PRIORITY": {
+                        "content": 3
+                    },
+                    "INVCOST": {
+                        "content": 0
+                    },
+                    "ROTSUSPACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "CHILDREN": {
+                        "content": false
+                    },
+                    "DISABLED": {
+                        "content": false
+                    },
+                    "SITEID": {
+                        "content": "BEDFORD"
+                    },
+                    "ORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "AUTOWOGEN": {
+                        "content": false
+                    },
+                    "ITEMSETID": {
+                        "content": "SET1"
+                    },
+                    "ADDTOSTORE": {
+                        "content": false
+                    },
+                    "GLCREDITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "GLDEBITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "MOVEDATE": {
+                        "content": "2018-02-14T17:22:09+01:00"
+                    },
+                    "MOVEDBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "NEWSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "NEWLOCATION": {
+                        "content": "MOFLOOR2"
+                    },
+                    "STATUS": {
+                        "content": "OPERATING"
+                    },
+                    "MAINTHIERCHY": {
+                        "content": false
+                    },
+                    "ASSETID": {
+                        "content": 53
+                    },
+                    "MOVED": {
+                        "content": false
+                    },
+                    "NEWASSETNUM": {
+                        "content": "1002"
+                    },
+                    "ASSETUID": {
+                        "content": 54,
+                        "resourceid": true
+                    },
+                    "NEWSTATUS": {
+                        "content": "OPERATING"
+                    },
+                    "HASCHILDREN": {
+                        "content": false
+                    },
+                    "HASPARENT": {
+                        "content": false
+                    },
+                    "OBJECTNAME": {
+                        "content": "ASSET"
+                    },
+                    "LANGCODE": {
+                        "content": "EN"
+                    },
+                    "REPLACEASSETSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "HASLD": {
+                        "content": false
+                    },
+                    "ISLINEAR": {
+                        "content": false
+                    },
+                    "STATUSIFACE": {
+                        "content": false
+                    },
+                    "ASOFDATE": {
+                        "content": "2018-02-14T17:22:09+01:00"
+                    },
+                    "FROMMEASURE": {
+                        "content": 0
+                    },
+                    "TOMEASURE": {
+                        "content": 0
+                    },
+                    "ROLLTOALLCHILDREN": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVEROUTES": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVESP": {
+                        "content": false
+                    },
+                    "CHANGEPMSTATUS": {
+                        "content": false
+                    },
+                    "NEWORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "RETURNEDTOVENDOR": {
+                        "content": false
+                    },
+                    "RELATIONSHIPFILTERBY": {
+                        "content": "VIEWALL"
+                    },
+                    "TLOAMPARTITION": {
+                        "content": false
+                    },
+                    "PLUSCISCONTAM": {
+                        "content": false
+                    },
+                    "PLUSCISINHOUSECAL": {
+                        "content": false
+                    },
+                    "PLUSCISMTE": {
+                        "content": false
+                    },
+                    "PLUSCPMEXTDATE": {
+                        "content": false
+                    },
+                    "PLUSCSOLUTION": {
+                        "content": false
+                    },
+                    "ISCALIBRATION": {
+                        "content": false
+                    },
+                    "SHOWFROMDATE": {
+                        "content": "2018-02-14T00:00:00+01:00"
+                    }
+                }
+            },
+            {
+                "rowstamp": "[0 0 0 0 1 47 80 -124]",
+                "Attributes": {
+                    "ASSETNUM": {
+                        "content": "1003"
+                    },
+                    "LOCATION": {
+                        "content": "MOFLOOR3"
+                    },
+                    "DESCRIPTION": {
+                        "content": "Fire Extinguisher"
+                    },
+                    "VENDOR": {
+                        "content": "ANSUL"
+                    },
+                    "MANUFACTURER": {
+                        "content": "ANSUL"
+                    },
+                    "PURCHASEPRICE": {
+                        "content": 0
+                    },
+                    "REPLACECOST": {
+                        "content": 0
+                    },
+                    "INSTALLDATE": {
+                        "content": "2001-03-28T00:00:00+01:00"
+                    },
+                    "TOTALCOST": {
+                        "content": 0
+                    },
+                    "YTDCOST": {
+                        "content": 0
+                    },
+                    "BUDGETCOST": {
+                        "content": 0
+                    },
+                    "ISRUNNING": {
+                        "content": true
+                    },
+                    "ITEMNUM": {
+                        "content": "FIRE-100"
+                    },
+                    "UNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTUNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTDOWNTIME": {
+                        "content": 0
+                    },
+                    "STATUSDATE": {
+                        "content": "2017-05-11T14:23:07+01:00"
+                    },
+                    "CHANGEDATE": {
+                        "content": "2017-05-11T14:23:07+01:00"
+                    },
+                    "CHANGEBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "PRIORITY": {
+                        "content": 3
+                    },
+                    "INVCOST": {
+                        "content": 0
+                    },
+                    "ROTSUSPACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "CHILDREN": {
+                        "content": true
+                    },
+                    "DISABLED": {
+                        "content": false
+                    },
+                    "SITEID": {
+                        "content": "BEDFORD"
+                    },
+                    "ORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "AUTOWOGEN": {
+                        "content": false
+                    },
+                    "ITEMSETID": {
+                        "content": "SET1"
+                    },
+                    "ADDTOSTORE": {
+                        "content": false
+                    },
+                    "GLCREDITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "GLDEBITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "MOVEDATE": {
+                        "content": "2018-02-14T17:22:09+01:00"
+                    },
+                    "MOVEDBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "NEWSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "NEWLOCATION": {
+                        "content": "MOFLOOR3"
+                    },
+                    "STATUS": {
+                        "content": "OPERATING"
+                    },
+                    "MAINTHIERCHY": {
+                        "content": false
+                    },
+                    "ASSETID": {
+                        "content": 54
+                    },
+                    "MOVED": {
+                        "content": false
+                    },
+                    "NEWASSETNUM": {
+                        "content": "1003"
+                    },
+                    "ASSETUID": {
+                        "content": 55,
+                        "resourceid": true
+                    },
+                    "NEWSTATUS": {
+                        "content": "OPERATING"
+                    },
+                    "HASCHILDREN": {
+                        "content": true
+                    },
+                    "HASPARENT": {
+                        "content": false
+                    },
+                    "OBJECTNAME": {
+                        "content": "ASSET"
+                    },
+                    "LANGCODE": {
+                        "content": "EN"
+                    },
+                    "REPLACEASSETSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "HASLD": {
+                        "content": false
+                    },
+                    "ISLINEAR": {
+                        "content": false
+                    },
+                    "STATUSIFACE": {
+                        "content": false
+                    },
+                    "ASOFDATE": {
+                        "content": "2018-02-14T17:22:09+01:00"
+                    },
+                    "FROMMEASURE": {
+                        "content": 0
+                    },
+                    "TOMEASURE": {
+                        "content": 0
+                    },
+                    "ROLLTOALLCHILDREN": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVEROUTES": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVESP": {
+                        "content": false
+                    },
+                    "CHANGEPMSTATUS": {
+                        "content": false
+                    },
+                    "NEWORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "RETURNEDTOVENDOR": {
+                        "content": false
+                    },
+                    "RELATIONSHIPFILTERBY": {
+                        "content": "VIEWALL"
+                    },
+                    "TLOAMPARTITION": {
+                        "content": false
+                    },
+                    "PLUSCISCONTAM": {
+                        "content": false
+                    },
+                    "PLUSCISINHOUSECAL": {
+                        "content": false
+                    },
+                    "PLUSCISMTE": {
+                        "content": false
+                    },
+                    "PLUSCPMEXTDATE": {
+                        "content": false
+                    },
+                    "PLUSCSOLUTION": {
+                        "content": false
+                    },
+                    "ISCALIBRATION": {
+                        "content": false
+                    },
+                    "SHOWFROMDATE": {
+                        "content": "2018-02-14T00:00:00+01:00"
+                    }
+                }
+            },
+            {
+                "rowstamp": "[0 0 0 0 1 -32 -41 -62]",
+                "Attributes": {
+                    "ASSETNUM": {
+                        "content": "1004"
+                    },
+                    "LOCATION": {
+                        "content": "MOFLOOR4"
+                    },
+                    "DESCRIPTION": {
+                        "content": "Fire Extinguisher"
+                    },
+                    "VENDOR": {
+                        "content": "ANSUL"
+                    },
+                    "MANUFACTURER": {
+                        "content": "ANSUL"
+                    },
+                    "PURCHASEPRICE": {
+                        "content": 0
+                    },
+                    "REPLACECOST": {
+                        "content": 0
+                    },
+                    "INSTALLDATE": {
+                        "content": "2001-03-28T00:00:00+01:00"
+                    },
+                    "TOTALCOST": {
+                        "content": 0
+                    },
+                    "YTDCOST": {
+                        "content": 0
+                    },
+                    "BUDGETCOST": {
+                        "content": 0
+                    },
+                    "ISRUNNING": {
+                        "content": false
+                    },
+                    "ITEMNUM": {
+                        "content": "FIRE-100"
+                    },
+                    "UNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTUNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTDOWNTIME": {
+                        "content": 24.016666666666666
+                    },
+                    "STATUSDATE": {
+                        "content": "2017-03-14T14:31:54+01:00"
+                    },
+                    "CHANGEDATE": {
+                        "content": "2017-08-08T11:00:28+01:00"
+                    },
+                    "CHANGEBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "PRIORITY": {
+                        "content": 3
+                    },
+                    "INVCOST": {
+                        "content": 0
+                    },
+                    "ROTSUSPACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "CHILDREN": {
+                        "content": false
+                    },
+                    "DISABLED": {
+                        "content": false
+                    },
+                    "SITEID": {
+                        "content": "BEDFORD"
+                    },
+                    "ORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "AUTOWOGEN": {
+                        "content": true
+                    },
+                    "ITEMSETID": {
+                        "content": "SET1"
+                    },
+                    "ADDTOSTORE": {
+                        "content": false
+                    },
+                    "GLCREDITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "GLDEBITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "MOVEDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "MOVEDBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "NEWSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "NEWLOCATION": {
+                        "content": "MOFLOOR4"
+                    },
+                    "STATUS": {
+                        "content": "ACTIVE"
+                    },
+                    "MAINTHIERCHY": {
+                        "content": false
+                    },
+                    "ASSETID": {
+                        "content": 110
+                    },
+                    "MOVED": {
+                        "content": false
+                    },
+                    "NEWASSETNUM": {
+                        "content": "1004"
+                    },
+                    "ASSETUID": {
+                        "content": 84,
+                        "resourceid": true
+                    },
+                    "NEWSTATUS": {
+                        "content": "ACTIVE"
+                    },
+                    "HASCHILDREN": {
+                        "content": false
+                    },
+                    "HASPARENT": {
+                        "content": false
+                    },
+                    "OBJECTNAME": {
+                        "content": "ASSET"
+                    },
+                    "LANGCODE": {
+                        "content": "EN"
+                    },
+                    "ANCESTOR": {
+                        "content": "1001"
+                    },
+                    "REPLACEASSETSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "HASLD": {
+                        "content": false
+                    },
+                    "ISLINEAR": {
+                        "content": false
+                    },
+                    "STATUSIFACE": {
+                        "content": false
+                    },
+                    "ASOFDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "FROMMEASURE": {
+                        "content": 0
+                    },
+                    "TOMEASURE": {
+                        "content": 0
+                    },
+                    "ROLLTOALLCHILDREN": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVEROUTES": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVESP": {
+                        "content": false
+                    },
+                    "CHANGEPMSTATUS": {
+                        "content": false
+                    },
+                    "NEWORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "RETURNEDTOVENDOR": {
+                        "content": false
+                    },
+                    "RELATIONSHIPFILTERBY": {
+                        "content": "VIEWALL"
+                    },
+                    "TLOAMPARTITION": {
+                        "content": false
+                    },
+                    "PLUSCISCONTAM": {
+                        "content": false
+                    },
+                    "PLUSCISINHOUSECAL": {
+                        "content": false
+                    },
+                    "PLUSCISMTE": {
+                        "content": false
+                    },
+                    "PLUSCPMEXTDATE": {
+                        "content": false
+                    },
+                    "PLUSCSOLUTION": {
+                        "content": false
+                    },
+                    "ISCALIBRATION": {
+                        "content": false
+                    },
+                    "SHOWFROMDATE": {
+                        "content": "2018-02-14T00:00:00+01:00"
+                    }
+                }
+            },
+            {
+                "rowstamp": "[0 0 0 0 0 0 112 10]",
+                "Attributes": {
+                    "ASSETNUM": {
+                        "content": "1005"
+                    },
+                    "LOCATION": {
+                        "content": "CONF400"
+                    },
+                    "DESCRIPTION": {
+                        "content": "Fire Extinguisher"
+                    },
+                    "VENDOR": {
+                        "content": "ANSUL"
+                    },
+                    "MANUFACTURER": {
+                        "content": "ANSUL"
+                    },
+                    "PURCHASEPRICE": {
+                        "content": 0
+                    },
+                    "REPLACECOST": {
+                        "content": 0
+                    },
+                    "INSTALLDATE": {
+                        "content": "2001-03-28T00:00:00+01:00"
+                    },
+                    "TOTALCOST": {
+                        "content": 0
+                    },
+                    "YTDCOST": {
+                        "content": 0
+                    },
+                    "BUDGETCOST": {
+                        "content": 0
+                    },
+                    "ISRUNNING": {
+                        "content": true
+                    },
+                    "ITEMNUM": {
+                        "content": "FIRE-100"
+                    },
+                    "UNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTUNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTDOWNTIME": {
+                        "content": 0
+                    },
+                    "STATUSDATE": {
+                        "content": "2001-03-28T12:20:00+01:00"
+                    },
+                    "CHANGEDATE": {
+                        "content": "1999-03-31T16:57:00+01:00"
+                    },
+                    "CHANGEBY": {
+                        "content": "MAXIMO"
+                    },
+                    "PRIORITY": {
+                        "content": 3
+                    },
+                    "INVCOST": {
+                        "content": 0
+                    },
+                    "ROTSUSPACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "CHILDREN": {
+                        "content": false
+                    },
+                    "DISABLED": {
+                        "content": false
+                    },
+                    "SITEID": {
+                        "content": "BEDFORD"
+                    },
+                    "ORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "AUTOWOGEN": {
+                        "content": false
+                    },
+                    "ITEMSETID": {
+                        "content": "SET1"
+                    },
+                    "ADDTOSTORE": {
+                        "content": false
+                    },
+                    "GLCREDITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "GLDEBITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "MOVEDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "MOVEDBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "NEWSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "NEWLOCATION": {
+                        "content": "CONF400"
+                    },
+                    "STATUS": {
+                        "content": "NOT READY"
+                    },
+                    "MAINTHIERCHY": {
+                        "content": false
+                    },
+                    "ASSETID": {
+                        "content": 111
+                    },
+                    "MOVED": {
+                        "content": false
+                    },
+                    "NEWASSETNUM": {
+                        "content": "1005"
+                    },
+                    "ASSETUID": {
+                        "content": 85,
+                        "resourceid": true
+                    },
+                    "NEWSTATUS": {
+                        "content": "NOT READY"
+                    },
+                    "HASCHILDREN": {
+                        "content": false
+                    },
+                    "HASPARENT": {
+                        "content": false
+                    },
+                    "OBJECTNAME": {
+                        "content": "ASSET"
+                    },
+                    "LANGCODE": {
+                        "content": "EN"
+                    },
+                    "REPLACEASSETSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "HASLD": {
+                        "content": false
+                    },
+                    "ISLINEAR": {
+                        "content": false
+                    },
+                    "STATUSIFACE": {
+                        "content": false
+                    },
+                    "ASOFDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "FROMMEASURE": {
+                        "content": 0
+                    },
+                    "TOMEASURE": {
+                        "content": 0
+                    },
+                    "ROLLTOALLCHILDREN": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVEROUTES": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVESP": {
+                        "content": false
+                    },
+                    "CHANGEPMSTATUS": {
+                        "content": false
+                    },
+                    "NEWORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "RETURNEDTOVENDOR": {
+                        "content": false
+                    },
+                    "RELATIONSHIPFILTERBY": {
+                        "content": "VIEWALL"
+                    },
+                    "TLOAMPARTITION": {
+                        "content": false
+                    },
+                    "PLUSCISCONTAM": {
+                        "content": false
+                    },
+                    "PLUSCISINHOUSECAL": {
+                        "content": false
+                    },
+                    "PLUSCISMTE": {
+                        "content": false
+                    },
+                    "PLUSCPMEXTDATE": {
+                        "content": false
+                    },
+                    "PLUSCSOLUTION": {
+                        "content": false
+                    },
+                    "ISCALIBRATION": {
+                        "content": false
+                    },
+                    "SHOWFROMDATE": {
+                        "content": "2018-02-14T00:00:00+01:00"
+                    }
+                }
+            },
+            {
+                "rowstamp": "[0 0 0 0 1 -33 123 -62]",
+                "Attributes": {
+                    "ASSETNUM": {
+                        "content": "1006"
+                    },
+                    "LOCATION": {
+                        "content": "ADDR2002"
+                    },
+                    "DESCRIPTION": {
+                        "content": "Fire Extinguisher"
+                    },
+                    "VENDOR": {
+                        "content": "ANSUL"
+                    },
+                    "MANUFACTURER": {
+                        "content": "ANSUL"
+                    },
+                    "PURCHASEPRICE": {
+                        "content": 0
+                    },
+                    "REPLACECOST": {
+                        "content": 0
+                    },
+                    "INSTALLDATE": {
+                        "content": "2001-03-28T00:00:00+01:00"
+                    },
+                    "TOTALCOST": {
+                        "content": 0
+                    },
+                    "YTDCOST": {
+                        "content": 0
+                    },
+                    "BUDGETCOST": {
+                        "content": 0
+                    },
+                    "ISRUNNING": {
+                        "content": true
+                    },
+                    "ITEMNUM": {
+                        "content": "FIRE-100"
+                    },
+                    "UNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTUNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTDOWNTIME": {
+                        "content": 0
+                    },
+                    "STATUSDATE": {
+                        "content": "2001-03-28T12:20:00+01:00"
+                    },
+                    "CHANGEDATE": {
+                        "content": "2017-08-07T18:55:16+01:00"
+                    },
+                    "CHANGEBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "PRIORITY": {
+                        "content": 3
+                    },
+                    "INVCOST": {
+                        "content": 0
+                    },
+                    "ROTSUSPACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "CHILDREN": {
+                        "content": false
+                    },
+                    "DISABLED": {
+                        "content": false
+                    },
+                    "SITEID": {
+                        "content": "BEDFORD"
+                    },
+                    "ORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "AUTOWOGEN": {
+                        "content": false
+                    },
+                    "ITEMSETID": {
+                        "content": "SET1"
+                    },
+                    "ADDTOSTORE": {
+                        "content": false
+                    },
+                    "GLCREDITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "GLDEBITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "MOVEDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "MOVEDBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "NEWSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "NEWLOCATION": {
+                        "content": "ADDR2002"
+                    },
+                    "STATUS": {
+                        "content": "NOT READY"
+                    },
+                    "MAINTHIERCHY": {
+                        "content": false
+                    },
+                    "ASSETID": {
+                        "content": 112
+                    },
+                    "MOVED": {
+                        "content": false
+                    },
+                    "NEWASSETNUM": {
+                        "content": "1006"
+                    },
+                    "ASSETUID": {
+                        "content": 86,
+                        "resourceid": true
+                    },
+                    "NEWSTATUS": {
+                        "content": "NOT READY"
+                    },
+                    "HASCHILDREN": {
+                        "content": false
+                    },
+                    "HASPARENT": {
+                        "content": false
+                    },
+                    "OBJECTNAME": {
+                        "content": "ASSET"
+                    },
+                    "LANGCODE": {
+                        "content": "EN"
+                    },
+                    "REPLACEASSETSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "HASLD": {
+                        "content": false
+                    },
+                    "ISLINEAR": {
+                        "content": false
+                    },
+                    "STATUSIFACE": {
+                        "content": false
+                    },
+                    "ASOFDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "FROMMEASURE": {
+                        "content": 0
+                    },
+                    "TOMEASURE": {
+                        "content": 0
+                    },
+                    "ROLLTOALLCHILDREN": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVEROUTES": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVESP": {
+                        "content": false
+                    },
+                    "CHANGEPMSTATUS": {
+                        "content": false
+                    },
+                    "NEWORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "RETURNEDTOVENDOR": {
+                        "content": false
+                    },
+                    "RELATIONSHIPFILTERBY": {
+                        "content": "VIEWALL"
+                    },
+                    "TLOAMPARTITION": {
+                        "content": false
+                    },
+                    "PLUSCISCONTAM": {
+                        "content": false
+                    },
+                    "PLUSCISINHOUSECAL": {
+                        "content": false
+                    },
+                    "PLUSCISMTE": {
+                        "content": false
+                    },
+                    "PLUSCPMEXTDATE": {
+                        "content": false
+                    },
+                    "PLUSCSOLUTION": {
+                        "content": false
+                    },
+                    "ISCALIBRATION": {
+                        "content": false
+                    },
+                    "SHOWFROMDATE": {
+                        "content": "2018-02-14T00:00:00+01:00"
+                    }
+                }
+            },
+            {
+                "rowstamp": "[0 0 0 0 0 -13 83 -55]",
+                "Attributes": {
+                    "ASSETNUM": {
+                        "content": "1007"
+                    },
+                    "LOCATION": {
+                        "content": "OFF402"
+                    },
+                    "DESCRIPTION": {
+                        "content": "Fire Extinguisher"
+                    },
+                    "VENDOR": {
+                        "content": "ANSUL"
+                    },
+                    "FAILURECODE": {
+                        "content": "PUMPS"
+                    },
+                    "MANUFACTURER": {
+                        "content": "ANSUL"
+                    },
+                    "PURCHASEPRICE": {
+                        "content": 0
+                    },
+                    "REPLACECOST": {
+                        "content": 0
+                    },
+                    "INSTALLDATE": {
+                        "content": "2001-03-28T00:00:00+01:00"
+                    },
+                    "TOTALCOST": {
+                        "content": 0
+                    },
+                    "YTDCOST": {
+                        "content": 0
+                    },
+                    "BUDGETCOST": {
+                        "content": 0
+                    },
+                    "ISRUNNING": {
+                        "content": false
+                    },
+                    "ITEMNUM": {
+                        "content": "FIRE-100"
+                    },
+                    "UNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTUNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTDOWNTIME": {
+                        "content": 24
+                    },
+                    "STATUSDATE": {
+                        "content": "2017-03-14T14:49:40+01:00"
+                    },
+                    "CHANGEDATE": {
+                        "content": "2017-04-14T03:10:28+01:00"
+                    },
+                    "CHANGEBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "PRIORITY": {
+                        "content": 3
+                    },
+                    "INVCOST": {
+                        "content": 0
+                    },
+                    "ROTSUSPACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "CHILDREN": {
+                        "content": false
+                    },
+                    "DISABLED": {
+                        "content": false
+                    },
+                    "SITEID": {
+                        "content": "BEDFORD"
+                    },
+                    "ORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "AUTOWOGEN": {
+                        "content": false
+                    },
+                    "ITEMSETID": {
+                        "content": "SET1"
+                    },
+                    "ADDTOSTORE": {
+                        "content": false
+                    },
+                    "GLCREDITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "GLDEBITACCT": {
+                        "content": "6600-869-800"
+                    },
+                    "MOVEDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "MOVEDBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "NEWSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "NEWLOCATION": {
+                        "content": "OFF402"
+                    },
+                    "STATUS": {
+                        "content": "OPERATING"
+                    },
+                    "MAINTHIERCHY": {
+                        "content": false
+                    },
+                    "ASSETID": {
+                        "content": 113
+                    },
+                    "MOVED": {
+                        "content": false
+                    },
+                    "NEWASSETNUM": {
+                        "content": "1007"
+                    },
+                    "ASSETUID": {
+                        "content": 87,
+                        "resourceid": true
+                    },
+                    "NEWSTATUS": {
+                        "content": "OPERATING"
+                    },
+                    "HASCHILDREN": {
+                        "content": false
+                    },
+                    "HASPARENT": {
+                        "content": false
+                    },
+                    "OBJECTNAME": {
+                        "content": "ASSET"
+                    },
+                    "LANGCODE": {
+                        "content": "EN"
+                    },
+                    "REPLACEASSETSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "HASLD": {
+                        "content": false
+                    },
+                    "ISLINEAR": {
+                        "content": false
+                    },
+                    "STATUSIFACE": {
+                        "content": false
+                    },
+                    "ASOFDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "FROMMEASURE": {
+                        "content": 0
+                    },
+                    "TOMEASURE": {
+                        "content": 0
+                    },
+                    "ROLLTOALLCHILDREN": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVEROUTES": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVESP": {
+                        "content": false
+                    },
+                    "CHANGEPMSTATUS": {
+                        "content": false
+                    },
+                    "NEWORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "RETURNEDTOVENDOR": {
+                        "content": false
+                    },
+                    "RELATIONSHIPFILTERBY": {
+                        "content": "VIEWALL"
+                    },
+                    "TLOAMPARTITION": {
+                        "content": false
+                    },
+                    "PLUSCISCONTAM": {
+                        "content": false
+                    },
+                    "PLUSCISINHOUSECAL": {
+                        "content": false
+                    },
+                    "PLUSCISMTE": {
+                        "content": false
+                    },
+                    "PLUSCPMEXTDATE": {
+                        "content": false
+                    },
+                    "PLUSCSOLUTION": {
+                        "content": false
+                    },
+                    "ISCALIBRATION": {
+                        "content": false
+                    },
+                    "SHOWFROMDATE": {
+                        "content": "2018-02-14T00:00:00+01:00"
+                    }
+                }
+            },
+            {
+                "rowstamp": "[0 0 0 0 0 -13 81 -124]",
+                "Attributes": {
+                    "ASSETNUM": {
+                        "content": "1008"
+                    },
+                    "PARENT": {
+                        "content": "A7800"
+                    },
+                    "LOCATION": {
+                        "content": "OFF301"
+                    },
+                    "DESCRIPTION": {
+                        "content": "Windows XP Operating System"
+                    },
+                    "FAILURECODE": {
+                        "content": "PUMPS"
+                    },
+                    "PURCHASEPRICE": {
+                        "content": 0
+                    },
+                    "REPLACECOST": {
+                        "content": 0
+                    },
+                    "TOTALCOST": {
+                        "content": 0
+                    },
+                    "YTDCOST": {
+                        "content": 0
+                    },
+                    "BUDGETCOST": {
+                        "content": 0
+                    },
+                    "ISRUNNING": {
+                        "content": true
+                    },
+                    "ITEMNUM": {
+                        "content": "WINXP"
+                    },
+                    "UNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTUNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTDOWNTIME": {
+                        "content": 0
+                    },
+                    "STATUSDATE": {
+                        "content": "2017-04-14T02:19:14+01:00"
+                    },
+                    "CHANGEDATE": {
+                        "content": "2017-04-14T02:19:14+01:00"
+                    },
+                    "CHANGEBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "INVCOST": {
+                        "content": 0
+                    },
+                    "CHILDREN": {
+                        "content": false
+                    },
+                    "DISABLED": {
+                        "content": false
+                    },
+                    "CLASSSTRUCTUREID": {
+                        "content": "1034"
+                    },
+                    "SITEID": {
+                        "content": "BEDFORD"
+                    },
+                    "ORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "AUTOWOGEN": {
+                        "content": false
+                    },
+                    "ITEMSETID": {
+                        "content": "SET1"
+                    },
+                    "ADDTOSTORE": {
+                        "content": false
+                    },
+                    "MOVEDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "MOVEDBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "NEWPARENT": {
+                        "content": "A7800"
+                    },
+                    "NEWSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "NEWLOCATION": {
+                        "content": "OFF301"
+                    },
+                    "GROUPNAME": {
+                        "content": "CLASS8"
+                    },
+                    "USAGE": {
+                        "content": "BaseWS"
+                    },
+                    "STATUS": {
+                        "content": "ACTIVE"
+                    },
+                    "MAINTHIERCHY": {
+                        "content": false
+                    },
+                    "ASSETID": {
+                        "content": 210
+                    },
+                    "MOVED": {
+                        "content": false
+                    },
+                    "NEWASSETNUM": {
+                        "content": "1008"
+                    },
+                    "ASSETUID": {
+                        "content": 210,
+                        "resourceid": true
+                    },
+                    "NEWSTATUS": {
+                        "content": "ACTIVE"
+                    },
+                    "HASCHILDREN": {
+                        "content": false
+                    },
+                    "HASPARENT": {
+                        "content": true
+                    },
+                    "OBJECTNAME": {
+                        "content": "ASSET"
+                    },
+                    "LANGCODE": {
+                        "content": "EN"
+                    },
+                    "ANCESTOR": {
+                        "content": "A7800"
+                    },
+                    "REPLACEASSETSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "HASLD": {
+                        "content": false
+                    },
+                    "ISLINEAR": {
+                        "content": false
+                    },
+                    "STATUSIFACE": {
+                        "content": false
+                    },
+                    "ASOFDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "FROMMEASURE": {
+                        "content": 0
+                    },
+                    "TOMEASURE": {
+                        "content": 0
+                    },
+                    "ROLLTOALLCHILDREN": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVEROUTES": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVESP": {
+                        "content": false
+                    },
+                    "CHANGEPMSTATUS": {
+                        "content": false
+                    },
+                    "NEWORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "RETURNEDTOVENDOR": {
+                        "content": false
+                    },
+                    "RELATIONSHIPFILTERBY": {
+                        "content": "VIEWALL"
+                    },
+                    "TLOAMPARTITION": {
+                        "content": false
+                    },
+                    "PLUSCISCONTAM": {
+                        "content": false
+                    },
+                    "PLUSCISINHOUSECAL": {
+                        "content": false
+                    },
+                    "PLUSCISMTE": {
+                        "content": false
+                    },
+                    "PLUSCPMEXTDATE": {
+                        "content": false
+                    },
+                    "PLUSCSOLUTION": {
+                        "content": false
+                    },
+                    "ISCALIBRATION": {
+                        "content": false
+                    },
+                    "SHOWFROMDATE": {
+                        "content": "2018-02-14T00:00:00+01:00"
+                    }
+                }
+            },
+            {
+                "rowstamp": "[0 0 0 0 0 0 113 -96]",
+                "Attributes": {
+                    "ASSETNUM": {
+                        "content": "1009"
+                    },
+                    "PARENT": {
+                        "content": "A7800"
+                    },
+                    "LOCATION": {
+                        "content": "OFF301"
+                    },
+                    "DESCRIPTION": {
+                        "content": "Laser printer (local)"
+                    },
+                    "PURCHASEPRICE": {
+                        "content": 0
+                    },
+                    "REPLACECOST": {
+                        "content": 0
+                    },
+                    "TOTALCOST": {
+                        "content": 0
+                    },
+                    "YTDCOST": {
+                        "content": 0
+                    },
+                    "BUDGETCOST": {
+                        "content": 0
+                    },
+                    "ISRUNNING": {
+                        "content": true
+                    },
+                    "ITEMNUM": {
+                        "content": "HPLASER"
+                    },
+                    "UNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTUNCHARGEDCOST": {
+                        "content": 0
+                    },
+                    "TOTDOWNTIME": {
+                        "content": 0
+                    },
+                    "STATUSDATE": {
+                        "content": "2004-10-11T13:09:12+01:00"
+                    },
+                    "CHANGEDATE": {
+                        "content": "2004-10-11T13:09:12+01:00"
+                    },
+                    "CHANGEBY": {
+                        "content": "WILSON"
+                    },
+                    "INVCOST": {
+                        "content": 0
+                    },
+                    "CHILDREN": {
+                        "content": false
+                    },
+                    "DISABLED": {
+                        "content": false
+                    },
+                    "CLASSSTRUCTUREID": {
+                        "content": "1083"
+                    },
+                    "SITEID": {
+                        "content": "BEDFORD"
+                    },
+                    "ORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "AUTOWOGEN": {
+                        "content": false
+                    },
+                    "ITEMSETID": {
+                        "content": "SET1"
+                    },
+                    "ADDTOSTORE": {
+                        "content": false
+                    },
+                    "MOVEDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "MOVEDBY": {
+                        "content": "MAXADMIN"
+                    },
+                    "NEWPARENT": {
+                        "content": "A7800"
+                    },
+                    "NEWSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "NEWLOCATION": {
+                        "content": "OFF301"
+                    },
+                    "STATUS": {
+                        "content": "OPERATING"
+                    },
+                    "MAINTHIERCHY": {
+                        "content": false
+                    },
+                    "ASSETID": {
+                        "content": 211
+                    },
+                    "MOVED": {
+                        "content": false
+                    },
+                    "NEWASSETNUM": {
+                        "content": "1009"
+                    },
+                    "ASSETUID": {
+                        "content": 211,
+                        "resourceid": true
+                    },
+                    "NEWSTATUS": {
+                        "content": "OPERATING"
+                    },
+                    "HASCHILDREN": {
+                        "content": false
+                    },
+                    "HASPARENT": {
+                        "content": true
+                    },
+                    "OBJECTNAME": {
+                        "content": "ASSET"
+                    },
+                    "LANGCODE": {
+                        "content": "EN"
+                    },
+                    "ANCESTOR": {
+                        "content": "A7800"
+                    },
+                    "REPLACEASSETSITE": {
+                        "content": "BEDFORD"
+                    },
+                    "HASLD": {
+                        "content": false
+                    },
+                    "ISLINEAR": {
+                        "content": false
+                    },
+                    "STATUSIFACE": {
+                        "content": false
+                    },
+                    "ASOFDATE": {
+                        "content": "2018-02-14T17:22:10+01:00"
+                    },
+                    "FROMMEASURE": {
+                        "content": 0
+                    },
+                    "TOMEASURE": {
+                        "content": 0
+                    },
+                    "ROLLTOALLCHILDREN": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVEROUTES": {
+                        "content": false
+                    },
+                    "REMOVEFROMACTIVESP": {
+                        "content": false
+                    },
+                    "CHANGEPMSTATUS": {
+                        "content": false
+                    },
+                    "NEWORGID": {
+                        "content": "EAGLENA"
+                    },
+                    "RETURNEDTOVENDOR": {
+                        "content": false
+                    },
+                    "RELATIONSHIPFILTERBY": {
+                        "content": "VIEWALL"
+                    },
+                    "TLOAMPARTITION": {
+                        "content": false
+                    },
+                    "PLUSCISCONTAM": {
+                        "content": false
+                    },
+                    "PLUSCISINHOUSECAL": {
+                        "content": false
+                    },
+                    "PLUSCISMTE": {
+                        "content": false
+                    },
+                    "PLUSCPMEXTDATE": {
+                        "content": false
+                    },
+                    "PLUSCSOLUTION": {
+                        "content": false
+                    },
+                    "ISCALIBRATION": {
+                        "content": false
+                    },
+                    "SHOWFROMDATE": {
+                        "content": "2018-02-14T00:00:00+01:00"
                     }
                 }
             }
-        },
-           {
-            "type": "articles",
-            "id": "4",
-            "quantite": 156,
-            "attributes": {
-                "title": "JSON API paints my bikeshed!",
-                "body": "The shortest article. Ever.",
-                "created": "2015-05-22T14:56:29.000Z",
-                "updated": "2015-05-22T14:56:28.000Z"
-            },
-            "relationships": {
-                "author": {
-                    "data": {
-                        "id": "42",
-                        "type": "people"
-                    }
-                }
-            }
-        }
-          ],
-  "included": [
-    {
-      "type": "people",
-      "id": "42",
-      "attributes": {
-        "name": "John",
-        "age": 80,
-        "gender": "male"
-      }
+        ]
     }
-  ]
 }
