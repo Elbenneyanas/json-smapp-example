@@ -4,17 +4,11 @@
         "rsCount": 10,
         "rsTotal": 12,
         "ASSET": [
-            {
-                "rowstamp": "[0 0 0 0 6 -120 -114 -47]",
+             {
+                "rowstamp": "[0 0 0 0 1 16 -113 106]",
                 "Attributes": {
                     "ASSETNUM": {
-                        "content": "1000"
-                    },
-                    "PARENT": {
-                        "content": "1005"
-                    },
-                    "DESCRIPTION": {
-                        "content": "test sa 1000 tet"
+                        "content": "TESTMS"
                     },
                     "PURCHASEPRICE": {
                         "content": 0
@@ -44,22 +38,19 @@
                         "content": 0
                     },
                     "STATUSDATE": {
-                        "content": "2017-04-26T15:24:20+01:00"
+                        "content": "2017-04-26T16:34:36+01:00"
                     },
                     "CHANGEDATE": {
-                        "content": "2017-12-26T18:02:38+01:00"
+                        "content": "2017-04-26T16:34:36+01:00"
                     },
                     "CHANGEBY": {
                         "content": "MAXADMIN"
-                    },
-                    "PRIORITY": {
-                        "content": 1
                     },
                     "INVCOST": {
                         "content": 0
                     },
                     "CHILDREN": {
-                        "content": true
+                        "content": false
                     },
                     "DISABLED": {
                         "content": false
@@ -76,60 +67,51 @@
                     "AUTOWOGEN": {
                         "content": false
                     },
-                    "ITEMSETID": {
-                        "content": "ITEMSET"
-                    },
                     "ADDTOSTORE": {
                         "content": false
                     },
                     "MOVEDATE": {
-                        "content": "2018-03-01T17:51:34+01:00"
+                        "content": "2018-03-01T17:51:36+01:00"
                     },
                     "MOVEDBY": {
                         "content": "MAXADMIN"
-                    },
-                    "NEWPARENT": {
-                        "content": "1005"
                     },
                     "NEWSITE": {
                         "content": "SUPPORT"
                     },
                     "STATUS": {
-                        "content": "OPERATING"
+                        "content": "NOT READY"
                     },
                     "MAINTHIERCHY": {
                         "content": false
                     },
                     "ASSETID": {
-                        "content": 7502
+                        "content": 17107
                     },
                     "MOVED": {
                         "content": false
                     },
                     "NEWASSETNUM": {
-                        "content": "1000"
+                        "content": "TESTMS"
                     },
                     "ASSETUID": {
-                        "content": 7502,
+                        "content": 17107,
                         "resourceid": true
                     },
                     "NEWSTATUS": {
-                        "content": "OPERATING"
+                        "content": "NOT READY"
                     },
                     "HASCHILDREN": {
-                        "content": true
+                        "content": false
                     },
                     "HASPARENT": {
-                        "content": true
+                        "content": false
                     },
                     "OBJECTNAME": {
                         "content": "ASSET"
                     },
                     "LANGCODE": {
                         "content": "FR"
-                    },
-                    "ANCESTOR": {
-                        "content": "1005"
                     },
                     "REPLACEASSETSITE": {
                         "content": "SUPPORT"
@@ -144,7 +126,7 @@
                         "content": false
                     },
                     "ASOFDATE": {
-                        "content": "2018-03-01T17:51:34+01:00"
+                        "content": "2018-03-01T17:51:36+01:00"
                     },
                     "FROMMEASURE": {
                         "content": 0
@@ -209,10 +191,13 @@
                 }
             },
             {
-                "rowstamp": "[0 0 0 0 5 84 120 121]",
+                "rowstamp": "[0 0 0 0 0 -24 83 16]",
                 "Attributes": {
                     "ASSETNUM": {
-                        "content": "1005"
+                        "content": "TESTSA"
+                    },
+                    "DESCRIPTION": {
+                        "content": "test  sa description"
                     },
                     "PURCHASEPRICE": {
                         "content": 0
@@ -242,10 +227,10 @@
                         "content": 0
                     },
                     "STATUSDATE": {
-                        "content": "2017-10-04T11:13:44+01:00"
+                        "content": "2017-04-10T20:51:00+01:00"
                     },
                     "CHANGEDATE": {
-                        "content": "2017-10-04T11:14:22+01:00"
+                        "content": "2017-04-10T20:51:00+01:00"
                     },
                     "CHANGEBY": {
                         "content": "MAXADMIN"
@@ -254,7 +239,7 @@
                         "content": 0
                     },
                     "CHILDREN": {
-                        "content": true
+                        "content": false
                     },
                     "DISABLED": {
                         "content": false
@@ -272,7 +257,7 @@
                         "content": false
                     },
                     "MOVEDATE": {
-                        "content": "2018-03-01T17:51:35+01:00"
+                        "content": "2018-03-01T17:51:36+01:00"
                     },
                     "MOVEDBY": {
                         "content": "MAXADMIN"
@@ -287,23 +272,23 @@
                         "content": false
                     },
                     "ASSETID": {
-                        "content": 37402
+                        "content": 13602
                     },
                     "MOVED": {
                         "content": false
                     },
                     "NEWASSETNUM": {
-                        "content": "1005"
+                        "content": "TESTSA"
                     },
                     "ASSETUID": {
-                        "content": 37402,
+                        "content": 13602,
                         "resourceid": true
                     },
                     "NEWSTATUS": {
                         "content": "NOT READY"
                     },
                     "HASCHILDREN": {
-                        "content": true
+                        "content": false
                     },
                     "HASPARENT": {
                         "content": false
@@ -327,7 +312,7 @@
                         "content": false
                     },
                     "ASOFDATE": {
-                        "content": "2018-03-01T17:51:35+01:00"
+                        "content": "2018-03-01T17:51:36+01:00"
                     },
                     "FROMMEASURE": {
                         "content": 0
@@ -391,6 +376,6 @@
                     }
                 }
             }
-      ]
+        ]
     }
 }
