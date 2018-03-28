@@ -1,7 +1,7 @@
 {
     "QuerySM_WOResponse": {
         "rsStart": 0,
-        "rsCount": 15,
+        "rsCount": 10,
         "rsTotal": 67982,
         "SM_WOSet": {
             "WORKORDER": [
@@ -175,94 +175,6 @@
                         },
                         "WONUM": {
                             "content": "1001-50"
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 26 -17 127]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Vérifier et lubrifier les roulements à rouleaux et les roues"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1001-60"
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 26 -17 -128]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Vérifier le bon fonctionnement du convoyeur"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1001-70"
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 26 -17 -127]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Changer l'huile du réducteur de vitesse Vérifier l'huile de vidange"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1001-80"
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 26 -17 -126]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Consigner l'intensité et la tension du moteur en marche"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1001-90"
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 58 -128 -98]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Remise en état de la pompe d'alimelllllllntation de la chaudière"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1002"
-                        },
-                        "WOPRIORITY": {
-                            "content": 3
                         },
                         "WORKTYPE": {
                             "content": "CM"
