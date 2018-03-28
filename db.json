@@ -1,195 +1,360 @@
 {
-    "ASSETMboSet": {
+    "QuerySM_WOResponse": {
         "rsStart": 0,
-        "rsCount": 10,
-        "rsTotal": 12,
-        "ASSET": [
-             {
-                "rowstamp": "[0 0 0 0 1 16 -113 106]",
-                "Attributes": {
-                    "ASSETNUM": {
-                        "content": "TESTMS"
-                    },
-                    "PURCHASEPRICE": {
-                        "content": 0
-                    },
-                    "REPLACECOST": {
-                        "content": 0
-                    },
-                    "TOTALCOST": {
-                        "content": 0
-                    },
-                    "YTDCOST": {
-                        "content": 0
-                    },
-                    "BUDGETCOST": {
-                        "content": 0
-                    },
-                    "ISRUNNING": {
-                        "content": true
-                    },
-                    "UNCHARGEDCOST": {
-                        "content": 0
-                    },
-                    "TOTUNCHARGEDCOST": {
-                        "content": 0
-                    },
-                    "TOTDOWNTIME": {
-                        "content": 0
-                    },
-                    "STATUSDATE": {
-                        "content": "2017-04-26T16:34:36+01:00"
-                    },
-                    "CHANGEDATE": {
-                        "content": "2017-04-26T16:34:36+01:00"
-                    },
-                    "CHANGEBY": {
-                        "content": "MAXADMIN"
-                    },
-                    "INVCOST": {
-                        "content": 0
-                    },
-                    "CHILDREN": {
-                        "content": false
-                    },
-                    "DISABLED": {
-                        "content": false
-                    },
-                    "CLASSSTRUCTUREID": {
-                        "content": "1017"
-                    },
-                    "SITEID": {
-                        "content": "SUPPORT"
-                    },
-                    "ORGID": {
-                        "content": "SMTK"
-                    },
-                    "AUTOWOGEN": {
-                        "content": false
-                    },
-                    "ADDTOSTORE": {
-                        "content": false
-                    },
-                    "MOVEDATE": {
-                        "content": "2018-03-01T17:51:36+01:00"
-                    },
-                    "MOVEDBY": {
-                        "content": "MAXADMIN"
-                    },
-                    "NEWSITE": {
-                        "content": "SUPPORT"
-                    },
-                    "STATUS": {
-                        "content": "NOT READY"
-                    },
-                    "MAINTHIERCHY": {
-                        "content": false
-                    },
-                    "ASSETID": {
-                        "content": 17107
-                    },
-                    "MOVED": {
-                        "content": false
-                    },
-                    "NEWASSETNUM": {
-                        "content": "TESTMS"
-                    },
-                    "ASSETUID": {
-                        "content": 17107,
-                        "resourceid": true
-                    },
-                    "NEWSTATUS": {
-                        "content": "NOT READY"
-                    },
-                    "HASCHILDREN": {
-                        "content": false
-                    },
-                    "HASPARENT": {
-                        "content": false
-                    },
-                    "OBJECTNAME": {
-                        "content": "ASSET"
-                    },
-                    "LANGCODE": {
-                        "content": "FR"
-                    },
-                    "REPLACEASSETSITE": {
-                        "content": "SUPPORT"
-                    },
-                    "HASLD": {
-                        "content": false
-                    },
-                    "ISLINEAR": {
-                        "content": false
-                    },
-                    "STATUSIFACE": {
-                        "content": false
-                    },
-                    "ASOFDATE": {
-                        "content": "2018-03-01T17:51:36+01:00"
-                    },
-                    "FROMMEASURE": {
-                        "content": 0
-                    },
-                    "TOMEASURE": {
-                        "content": 0
-                    },
-                    "ROLLTOALLCHILDREN": {
-                        "content": false
-                    },
-                    "REMOVEFROMACTIVEROUTES": {
-                        "content": false
-                    },
-                    "REMOVEFROMACTIVESP": {
-                        "content": false
-                    },
-                    "CHANGEPMSTATUS": {
-                        "content": false
-                    },
-                    "NEWORGID": {
-                        "content": "SMTK"
-                    },
-                    "RETURNEDTOVENDOR": {
-                        "content": false
-                    },
-                    "RELATIONSHIPFILTERBY": {
-                        "content": "VIEWALL"
-                    },
-                    "ASSETHEALTH": {
-                        "content": 0
-                    },
-                    "EXPECTEDLIFE": {
-                        "content": 0
-                    },
-                    "TLOAMPARTITION": {
-                        "content": false
-                    },
-                    "PLUSCISCONTAM": {
-                        "content": false
-                    },
-                    "PLUSCISINHOUSECAL": {
-                        "content": false
-                    },
-                    "PLUSCISMTE": {
-                        "content": false
-                    },
-                    "PLUSCPMEXTDATE": {
-                        "content": false
-                    },
-                    "PLUSCSOLUTION": {
-                        "content": false
-                    },
-                    "ISCALIBRATION": {
-                        "content": false
-                    },
-                    "SHOWFROMDATE": {
-                        "content": "2018-03-01T00:00:00+01:00"
-                    },
-                    "SM_EXIST": {
-                        "content": false
+        "rsCount": 20,
+        "rsTotal": 67982,
+        "SM_WOSet": {
+            "WORKORDER": [
+                {
+                    "rowstamp": "[0 0 0 0 2 28 -4 106]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Déplacer les garde-fou autour du compresseur"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1000"
+                        },
+                        "WOPRIORITY": {
+                            "content": 2
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 119]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Déplacer le garde-fou pour accéder au chariot à fourche"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1000-10"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 120]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Déplacer le conduit électrique associé"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1000-20"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 28 -4 107]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Entretien 12 mois sur convoyeur au service Expéditions n°1"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001"
+                        },
+                        "WOPRIORITY": {
+                            "content": 5
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 121]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Vérifier les commutateurs marche avant/arrière et le disjoncteur de sécurité"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001-10"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 122]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Remplacer les roulements, le disque diviseur et les boulons usés"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001-100"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 123]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Nettoyer le moteur"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001-20"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 124]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Vérifier le réducteur de vitesse Vérifier l'huile de la boîte de vitesses"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001-30"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 125]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Vérifier, nettoyer et lubrifier la chaîne de transmission"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001-40"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 126]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Vérifier la tension de la courroie & des poulies du convoyeur."
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001-50"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 127]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Vérifier et lubrifier les roulements à rouleaux et les roues"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001-60"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 -128]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Vérifier le bon fonctionnement du convoyeur"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001-70"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 -127]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Changer l'huile du réducteur de vitesse Vérifier l'huile de vidange"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001-80"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -17 -126]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Consigner l'intensité et la tension du moteur en marche"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1001-90"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 58 -128 -98]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Remise en état de la pompe d'alimelllllllntation de la chaudière"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1002"
+                        },
+                        "WOPRIORITY": {
+                            "content": 3
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -18 113]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Vérifier le fonctionnement de la pompe"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1002-10"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -18 114]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Remplacer compresseur, arbre, joints et carter"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1002-20"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -18 115]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Vérifier l'absence de fuite"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1002-30"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -18 116]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Vérifier le sectionneur général et tous les éléments électriques"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1002-40"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
+                    }
+                },
+                {
+                    "rowstamp": "[0 0 0 0 2 26 -18 117]",
+                    "Attributes": {
+                        "DESCRIPTION": {
+                            "content": "Nettoyer les contacteurs et leur compartiment"
+                        },
+                        "SITEID": {
+                            "content": "BEDFORD"
+                        },
+                        "WONUM": {
+                            "content": "1002-50"
+                        },
+                        "WORKTYPE": {
+                            "content": "CM"
+                        }
                     }
                 }
-            }
-        ]
+            ]
+        }
     }
 }
