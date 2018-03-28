@@ -1,7 +1,7 @@
 {
     "QuerySM_WOResponse": {
         "rsStart": 0,
-        "rsCount": 20,
+        "rsCount": 15,
         "rsTotal": 67982,
         "SM_WOSet": {
             "WORKORDER": [
@@ -263,91 +263,6 @@
                         },
                         "WOPRIORITY": {
                             "content": 3
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 26 -18 113]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Vérifier le fonctionnement de la pompe"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1002-10"
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 26 -18 114]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Remplacer compresseur, arbre, joints et carter"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1002-20"
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 26 -18 115]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Vérifier l'absence de fuite"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1002-30"
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 26 -18 116]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Vérifier le sectionneur général et tous les éléments électriques"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1002-40"
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 26 -18 117]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Nettoyer les contacteurs et leur compartiment"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1002-50"
                         },
                         "WORKTYPE": {
                             "content": "CM"
