@@ -224,87 +224,7 @@
                             "content": "CM"
                         }
                     }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 34 -110 109]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Vérifier les bornes de la batterie et brancher les câbles"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1004-70"
-                        },
-                        "WOPRIORITY": {
-                            "content": 3
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 34 -110 114]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Vérifier les échangeurs thermiques"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1004-80"
-                        },
-                        "WOPRIORITY": {
-                            "content": 4
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 34 -110 119]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Arrêt interr. de com. sur chaque tableau de contrôle"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1004-90"
-                        },
-                        "WOPRIORITY": {
-                            "content": 4
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 41 20 97]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Régler la voiturette électrique"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1005"
-                        },
-                        "WOPRIORITY": {
-                            "content": 7
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
+                }, 
                 {
                     "rowstamp": "[0 0 0 0 2 26 -18 -117]",
                     "Attributes": {
@@ -372,24 +292,7 @@
                             "content": "PM"
                         }
                     }
-                },
-                {
-                    "rowstamp": "[0 0 0 0 2 26 -18 -113]",
-                    "Attributes": {
-                        "DESCRIPTION": {
-                            "content": "Vérifier la batterie Ajouter de l'eau si nécessaire"
-                        },
-                        "SITEID": {
-                            "content": "BEDFORD"
-                        },
-                        "WONUM": {
-                            "content": "1005-50"
-                        },
-                        "WORKTYPE": {
-                            "content": "CM"
-                        }
-                    }
-                },
+                }, 
                 {
                     "rowstamp": "[0 0 0 0 2 26 -18 -112]",
                     "Attributes": {
