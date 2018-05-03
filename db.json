@@ -21,7 +21,7 @@
                             "content": 2
                         },
                         "WORKTYPE": {
-                            "content": "CM"
+                            "content": "PM"
                         }
                     }
                 },
@@ -41,7 +41,7 @@
                             "content": 1
                         },
                         "WORKTYPE": {
-                            "content": "CM"
+                            "content": "EM"
                         }
                     }
                 },
@@ -61,7 +61,7 @@
                             "content": 1
                         },
                         "WORKTYPE": {
-                            "content": "CM"
+                            "content": "PM"
                         }
                     }
                 },
@@ -81,7 +81,7 @@
                             "content": 1
                         },
                         "WORKTYPE": {
-                            "content": "CM"
+                            "content": "EM"
                         }
                     }
                 },
@@ -101,7 +101,7 @@
                             "content": 2
                         },
                         "WORKTYPE": {
-                            "content": "CM"
+                            "content": "PM"
                         }
                     }
                 },
@@ -201,7 +201,7 @@
                             "content": 3
                         },
                         "WORKTYPE": {
-                            "content": "CM"
+                            "content": "EM"
                         }
                     }
                 },
@@ -318,7 +318,7 @@
                             "content": "1005-10"
                         },
                         "WORKTYPE": {
-                            "content": "CM"
+                            "content": "EM"
                         }
                     }
                 },
@@ -352,7 +352,7 @@
                             "content": "1005-30"
                         },
                         "WORKTYPE": {
-                            "content": "CM"
+                            "content": "PM"
                         }
                     }
                 },
@@ -369,7 +369,7 @@
                             "content": "1005-40"
                         },
                         "WORKTYPE": {
-                            "content": "CM"
+                            "content": "PM"
                         }
                     }
                 },
@@ -403,7 +403,7 @@
                             "content": "1005-60"
                         },
                         "WORKTYPE": {
-                            "content": "CM"
+                            "content": "EM"
                         }
                     }
                 }
